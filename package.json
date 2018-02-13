@@ -1,0 +1,25 @@
+{
+  "name": "api_midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegaChuck64/API_Midterm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MegaChuck64/API_Midterm/issues"
+  },
+  "homepage": "https://github.com/MegaChuck64/API_Midterm#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "forecast.io": "0.0.11",
+    "morgan": "^1.9.0",
+    "zippity-do-dah": "0.0.3"
+  }
+}

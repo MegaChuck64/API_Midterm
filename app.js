@@ -37,7 +37,7 @@ var app = express();
     https://darksky.net/dev
 */
 var options = {
-    APIKey: "ENTER YOUR API KEY HERE",
+    APIKey: "93a5f008b06b7577fc236eece9f608e3",
     timeout: 1000
   };//configures the options for forecast.io
 
